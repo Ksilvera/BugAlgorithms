@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/src/BugAlgorithms.cpp
+BugAlgorithms.hpp
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/src/BugAlgorithms.hpp
+stdlib.h
+-
+
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/src/BugAlgorithms.hpp
+Simulator.hpp
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/src/Simulator.hpp
+
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/src/Simulator.hpp
+cmath
+-
+cstdio
+-
+cstdlib
+-
+vector
+-
+

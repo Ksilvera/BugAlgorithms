@@ -1,0 +1,3 @@
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/CMakeFiles/rebuild_cache.dir
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/CMakeFiles/edit_cache.dir
+/Users/KevinSilvera/downloads/Project1Bug/BugCPP/CMakeFiles/RunBug.dir
